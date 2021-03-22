@@ -1,3 +1,20 @@
-h6 {
-    display: list-item;
+#header{
+    width: 715px;
+    height:100px;
+    background:darkred;
+}
+#menu{
+    background: oldlace;
+    width: 190px;
+    height: 300px;
+}
+#content{
+    background: oldlace;
+    width: 525px;
+    height: 300px;
+}
+#footer{
+    width: 715px;
+    height:30px;
+    background:darkred;
 }
